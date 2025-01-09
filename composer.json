@@ -1,0 +1,19 @@
+{
+    "name": "endrika73/laravel-repository",
+    "description": "Laravel Repository Built With Query Builder",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endrika73\\LaravelRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Endrika Nanami",
+            "email": "endrika.nanami@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
